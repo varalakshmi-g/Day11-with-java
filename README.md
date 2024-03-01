@@ -10,7 +10,7 @@ public class Main {
  public static void main(String[] args) {
  Scanner sc = new Scanner(System.in);
  int n;
- System.out.println("Enter the total number of elements: ");
+ System.out.println("Enter total number of elements: ");
  n = sc.nextInt(); 
 
  int arr[] = new int[n];
@@ -33,4 +33,14 @@ public class Main {
  System.out.println(element + " occurred " + occ + " times.");
  }
 }
+
+
+sample output: 
+Enter total number of elements: 5
+Enter the elements of an array: 1 2 4 1 1
+Enter the element whose frequency you want to know: 1
+1 occured 3 times.
+
+
+
 
