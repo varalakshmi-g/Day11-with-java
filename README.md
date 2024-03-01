@@ -1,4 +1,5 @@
 # Day11-with-java
+We have to learn from our mistakes and try not to repeat the same mistake ever
 
 Today's  task is to Write a program that counts the occurrences of an element in an array.
 
